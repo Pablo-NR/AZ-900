@@ -31,15 +31,15 @@
 
 ## MFA and SSPR
 
-![image.png](image.png)
+![image.png](https://github.com/Pablo-NR/Microsoft-Certifications/blob/main/image%209.png)
 
 ## Infrastructure
 
-![image.png](8adf7804-ae59-4dfd-b8ce-962b1abec14c.png)
+![image.png](https://github.com/Pablo-NR/Microsoft-Certifications/blob/main/image%2017.png)
 
 ## Defense in depth
 
-![image.png](3c404b94-746f-47e2-b2ed-03c19d13bf3e.png)
+![image.png](https://github.com/Pablo-NR/Microsoft-Certifications/blob/main/image%204.png)
 
 **Azure DDoS Protection:** protect applications and servers by analyzing network traffic and discarding anything that looks like a DDoS attack. Protects at layer 3 (network layer) and layer 4 (transport layer).
 
