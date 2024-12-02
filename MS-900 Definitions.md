@@ -1,4 +1,4 @@
-# MS-900
+# MS-900 Definitions
 
 **Microsoft 365**: is a cloud-based subscription service that consists of apps and services such as Office apps, Teams, Windows, world-class security and more
 
