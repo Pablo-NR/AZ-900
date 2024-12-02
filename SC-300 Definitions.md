@@ -1,4 +1,4 @@
-# SC-300
+# SC-300 Definitions
 
 ![image.png](image.png)
 
