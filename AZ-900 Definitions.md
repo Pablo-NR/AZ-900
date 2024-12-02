@@ -1,4 +1,4 @@
-# AZ-900
+# AZ-900 Definitions
 
 **Azure Government:** is only for EE.UU and their partners
 
