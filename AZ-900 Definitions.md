@@ -35,7 +35,7 @@
 
 **Azure Bot Services**: provides a digital online assistant that provides speech support
 
-## Defensa
+## Defense
 
 **Microsoft Defender**: Collects security data, assesses environments, and prevents attacks.
 
@@ -67,7 +67,7 @@
 
 **Azure Advanced Threat Protection**: Monitor threats by using sensors
 
-## Monitorización y análisis
+## Monitoring and analysis
 
 **Pricing calculator**: Give you an estimated cost for provisioning resources in Azure
 
@@ -131,7 +131,7 @@
 
 **Azure DevOps**: is an integrated solution for the deployment of code
 
-## Redes y tráfico
+## Networks and traffic
 
 **ExpressRoute**: Private connection between the organization's on-premises network and the Azure virtual network, faster and more reliable as it does not traverse the public internet.
 
@@ -153,7 +153,7 @@
 
 **Network Virtual Appliances**: are specialized VMs that run a specific network function such as running a firewall or performing a WAN optimization.
 
-## Almacenamiento
+## Storage
 
 **Azure CDN**: Content delivery network (CDN) for efficiently delivering content globally.
 
