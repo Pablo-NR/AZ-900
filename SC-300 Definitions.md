@@ -1,7 +1,5 @@
 # SC-300
 
-[SC-300 Key Points](SC-300%20Key%20Points%20dade75e993b34bbd952a59cab8d186fb.md)
-
 ![image.png](image.png)
 
 **Control plane:** is the part of a network that manages and directs traffic to resources based on specific criteria, with user identity being crucial for controlling access in modern solutions. Identity is the control plane for accessing resources.
