@@ -294,12 +294,9 @@ Entra Connect Health offers **self-service remediation for duplicated attribute 
 | **Role** | **Can do** | **Can't do** |
 | --- | --- | --- |
 | Global Administrator | Full access to Identity Protection |  |
-| Security Administrator | Full access to Identity Protection
-Realiza cambios en las políticas | Reset password for a user |
-| Security Operator | View all Identity Protection reports and Overview screen, Dismiss user risk, confirm safe sign-in, confirm compromise 
-Responde a las alertas | Configure or change policies, Reset password for a user, Configure alerts |
-| Security Reader | View all Identity Protection reports and Overview screen
-Puede ver a las alertas pero no responder asi que será el que haga el primer informe | Configure or change policies, Reset password for a user, Configure alerts, Give feedback on detections |
+| Security Administrator | Full access to Identity Protection, can change politics | Reset password for a user |
+| Security Operator | View all Identity Protection reports and Overview screen, Dismiss user risk, confirm safe sign-in, confirm compromise, respond to alerts | Configure or change policies, Reset password for a user, Configure alerts |
+| Security Reader | View all Identity Protection reports and Overview screen | Configure or change policies, Reset password for a user, Configure alerts, Give feedback on detections |
 
 **Report Navigation and Actions:** Each report displays detections for a selected period and allows customization of columns and filtering options. Administrators can perform actions on individual entries, such as resetting passwords, confirming user compromise, or dismissing risks.
 
