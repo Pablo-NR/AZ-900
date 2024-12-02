@@ -1,7 +1,5 @@
 # SC-900
 
-[SC-900 Key Points](SC-900%20Key%20Points%201114bd42f51480d4a810f8dae5478412.md)
-
 **Zero Trust**: assumes everything is on an open and untrusted network, even resources behind the firewalls of the corporate network “**trust no one, verify everything.**”
 
 - **Verify explicitly**: Always authenticate and authorize users based on multiple factors such as identity, location, and device.
