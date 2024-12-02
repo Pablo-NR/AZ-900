@@ -1,4 +1,4 @@
-# Puntos
+# AZ-900 Key Points
 
 - To sign in to an **Azure account**, a **Microsoft account** is **required**.
 - **Azure China** is **not** operated by **Microsoft**, is operated by **21Vianet**
