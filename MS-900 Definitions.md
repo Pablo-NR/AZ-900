@@ -1,7 +1,5 @@
 # MS-900
 
-[MS-900 Key Points](MS-900%20Key%20Points%201054bd42f51480599ae2f09bd8375827.md)
-
 **Microsoft 365**: is a cloud-based subscription service that consists of apps and services such as Office apps, Teams, Windows, world-class security and more
 
 **Microsoft Copilot for Microsoft 365:** an AI-powered productivity tool. It uses large language models (LLMs) and integrates your data with the Microsoft Graph and Microsoft 365 apps and services.
