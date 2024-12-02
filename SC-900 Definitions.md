@@ -1,4 +1,4 @@
-# SC-900
+# SC-900 Definitions
 
 **Zero Trust**: assumes everything is on an open and untrusted network, even resources behind the firewalls of the corporate network “**trust no one, verify everything.**”
 
