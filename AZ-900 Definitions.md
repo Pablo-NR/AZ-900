@@ -1,7 +1,5 @@
 # AZ-900
 
-[Puntos ](Puntos%204b718dbb96ab468e98b39abd50aecb49.md)
-
 **Azure Government:** is only for EE.UU and their partners
 
 **Azure Hybrid Benefit**: License program for using existing licenses for Windows Server and SQL Server with discounts on Azure.
