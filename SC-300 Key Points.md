@@ -159,7 +159,7 @@
 
 - If the OU that contains a user is not selected to synchronize, the users in that OU won’t be synchronized even if users are selected
 
-![image.png](image%204.png)
+![image.png](https://github.com/Pablo-NR/Microsoft-Certifications/blob/main/Images/image%2015.png)
 
 - If you **sync a group**, all the users and groups inside will be sync if their OU are selected
 - When a group is selected to be **synchronized**, all the users and groups assigned to the first group will be synchronized
@@ -174,7 +174,7 @@
 
 - Change from PTA to PHS is not automatic, if you want to change in Entra Connect
 
-![image.png](image%205.png)
+![image.png](https://github.com/Pablo-NR/Microsoft-Certifications/blob/main/Images/image%2016.png)
 
 - If **on-prem connectivity is lost**, and PTA is enabled, only not sync users (cloud only users) will be able to access Entra ID
 
@@ -317,7 +317,7 @@
     - Can be reviewed on **Dashboard**
     - Helps to monitor the **permissions usage of a user**
 
-![image340.jpg](image340.jpg)
+![image340.jpg](https://github.com/Pablo-NR/Microsoft-Certifications/blob/main/Images/image%2019.jpg)
 
 - **Authorization System Name** indicates in which scope a user can request or approve access
 - Viewers can only request access
