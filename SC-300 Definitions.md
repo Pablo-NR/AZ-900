@@ -1,6 +1,6 @@
 # SC-300 Definitions
 
-![image.png](https://github.com/Pablo-NR/Microsoft-Certifications/blob/main/image%2011.png)
+![image.png](https://github.com/Pablo-NR/Microsoft-Certifications/blob/main/Images/image%2011.png)
 
 **Control plane:** is the part of a network that manages and directs traffic to resources based on specific criteria, with user identity being crucial for controlling access in modern solutions. Identity is the control plane for accessing resources.
 
@@ -93,12 +93,12 @@
 
 ## Default config for users
 
-![image.png](https://github.com/Pablo-NR/Microsoft-Certifications/blob/main/image%2012.png)
+![image.png](https://github.com/Pablo-NR/Microsoft-Certifications/blob/main/Images/image%2012.png)
 
 - **Member Users**: Can register applications, manage profile info, change passwords, invite B2B guests, and read most directory info.
 - **Guest Users**: Limited access; can manage profile, change password, view some user/app info but cannot access full directory details.
 
-![external-user-settings-azure-active-directory-ffbed5cc-7023148a.png](https://github.com/Pablo-NR/Microsoft-Certifications/blob/main/image%2018.png)
+![external-user-settings-azure-active-directory-ffbed5cc-7023148a.png](https://github.com/Pablo-NR/Microsoft-Certifications/blob/main/Images/image%2018.png)
 
 **Security Defaults**:
 
@@ -225,7 +225,7 @@ Entra Connect Health offers **self-service remediation for duplicated attribute 
     - **Proxy**: Downloads the password policy from Microsoft Ingres and sends it to domain controllers (DCs).
     - **Domain Controller** (**DC**): Checks user passwords using the policy downloaded from the proxy and rejects weak passwords. Requires at least two proxies to ensure availability
         
-        ![image.png](https://github.com/Pablo-NR/Microsoft-Certifications/blob/main/image%2013.png)
+        ![image.png](https://github.com/Pablo-NR/Microsoft-Certifications/blob/main/Images/image%2013.png)
         
 - **Microsoft Entra smart lockout:** Locks out malicious sign-in attempts like brute-force attacks while distinguishing legitimate users.
     - By default, 10 failed attempts, locked for 1 minute; time increases with additional attempts (exact growth is not disclosed).
@@ -238,7 +238,7 @@ Entra Connect Health offers **self-service remediation for duplicated attribute 
 
 **MFA methods:**
 
-![image.png](https://github.com/Pablo-NR/Microsoft-Certifications/blob/main/image%2014.png)
+![image.png](https://github.com/Pablo-NR/Microsoft-Certifications/blob/main/Images/image%2014.png)
 
 **Microsoft Pluton Security Processor:** is a security processor integrated directly into the CPU, eliminating the vulnerability in communication between the CPU and the TPM chip. It protects credentials, identities, encryption keys and personal data, even against physical attacks or malware.
 
