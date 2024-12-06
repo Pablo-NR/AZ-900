@@ -212,16 +212,16 @@ Storage read/write operations are paid.
 
 **What is SaaS, PaaS, IaaS**
 
-![image.png](image.png)
+![image.png](https://github.com/Pablo-NR/Microsoft-Certifications/blob/main/Images/image.png)
 
 **Supports plans**
 
-![image.png](image%201.png)
+![image.png](https://github.com/Pablo-NR/Microsoft-Certifications/blob/main/Images/image%201.png)
 
-![image.png](image%202.png)
+![image.png](https://github.com/Pablo-NR/Microsoft-Certifications/blob/main/Images/image%202.png)
 
 **Microsoft Cloud Adoption Framework**
 
-![image.png](image%203.png)
+![image.png](https://github.com/Pablo-NR/Microsoft-Certifications/blob/main/Images/image%203.png)
 
-![image.png](image%204.png)
+![image.png](https://github.com/Pablo-NR/Microsoft-Certifications/blob/main/Images/image%204.png)
